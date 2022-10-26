@@ -49,5 +49,5 @@ po/*~
 rsconnect/
 
 # Big files
-data/merged_trees/
+data/merged_trees/Tb.trees_500_EP.rds
 
