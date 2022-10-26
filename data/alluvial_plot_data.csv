@@ -1,0 +1,16 @@
+Level_1_names,Level_1_sort,Level_1,Level_2_sort,Level_2,Level_3,Fill,Level_1_ids,Level_2_ids,Level_3_ids,Level_1_nstates,Level_2_nstates,Level_3_nstates,Level_1_nchars,Level_2_nchars,Level_3_nchars,mean.changes.per.state,mean.changes.per.state.L2,mean.changes.per.state.L3
+cranium,a. cranium,cranium,a. head,head,body,yes,HAO:0000234,HAO:0000397,HAO:0000182,45,183,860,21,74,394,7.2853333333,9.5671231884,10.6381412738
+mouthparts,b. mouthparts,mouthparts,a. head,head,body,yes,HAO:0000639,HAO:0000397,HAO:0000182,138,183,860,53,74,394,11.8489130435,9.5671231884,10.6381412738
+fore wing,c. fore wing,fore wing,b. wing,wing,body,yes,HAO:0000351,HAO:0001089,HAO:0000182,20,47,860,9,22,394,2.6446,2.3315592593,10.6381412738
+hind wing,d. hind wing,hind wing,b. wing,wing,body,yes,HAO:0000400,HAO:0001089,HAO:0000182,27,47,860,13,22,394,2.0185185185,2.3315592593,10.6381412738
+pronotum,e. pronotum,pronotum,c. mesosoma,mesosoma,body,yes,HAO:0000853,HAO:0000576,HAO:0000182,77,520,860,35,245,394,6.7796623377,5.669544346,10.6381412738
+propectus,f. propectus,propectus,c. mesosoma,mesosoma,body,yes,HAO:0000854,HAO:0000576,HAO:0000182,68,520,860,32,245,394,6.4101470588,5.669544346,10.6381412738
+mesonotum,g. mesonotum,mesonotum,c. mesosoma,mesosoma,body,yes,HAO:0000556,HAO:0000576,HAO:0000182,107,520,860,52,245,394,5.2959439252,5.669544346,10.6381412738
+mesopectus,h. mesopectus,mesopectus,c. mesosoma,mesosoma,body,yes,HAO:0000557,HAO:0000576,HAO:0000182,83,520,860,39,245,394,5.202626506,5.669544346,10.6381412738
+metanotum,i. metanotum,metanotum,c. mesosoma,mesosoma,body,yes,HAO:0000603,HAO:0000576,HAO:0000182,34,520,860,17,245,394,3.9655882353,5.669544346,10.6381412738
+metapectal-propodeal complex,j. met.-prop. complex,met.-prop. complex,c. mesosoma,mesosoma,body,yes,HAO:0000604,HAO:0000576,HAO:0000182,151,520,860,70,245,394,6.3632980132,5.669544346,10.6381412738
+fore leg,l. fore leg,fore leg,d. leg,leg,body,yes,HAO:0000349,HAO:0000494,HAO:0000182,29,60,860,13,28,394,85.9548275862,31.814855694,10.6381412738
+mid leg,m. mid leg,mid leg,d. leg,leg,body,yes,HAO:0000636,HAO:0000494,HAO:0000182,17,60,860,8,28,394,6.2618823529,31.814855694,10.6381412738
+hind leg,n. hind leg,hind leg,d. leg,leg,body,yes,HAO:0000399,HAO:0000494,HAO:0000182,14,60,860,7,28,394,3.2278571429,31.814855694,10.6381412738
+metasoma general,o. metasoma gen.,metasoma gen.,e. metasoma,metasoma,body,yes,HAO:x000626,HAO:0000626,HAO:0000182,38,50,860,19,25,394,5.2454210526,3.1564605263,10.6381412738
+female genitalia,p. female genitalia,female genitalia,e. metasoma,metasoma,body,yes,HAO:0000324,HAO:0000626,HAO:0000182,12,50,860,6,25,394,1.0675,3.1564605263,10.6381412738
