@@ -5,7 +5,7 @@
 	3. `NHPP_KDE_BR2.r` file to construct tree plots and edge profiles for body regions at level 2 (main BRs). Not Checked by ST.
 2. Edge profile plot with NHPP rates
 	1. See `NHPP_KDE` family of files. Note, there is an error in edge_profiles4plotting() function.
-3. Phenotype diffusion plot and animation (early version uses based on multidimensional scaling scaling)
+3. Phenotype diffusion plot and animation (early version uses multidimensional scaling)
 	1. All works, see `Morphospace_animation.r`
 4. Organismal plot with body regions and rates
 	1. All works, see `Plot_Images.r`
