@@ -30,3 +30,4 @@
 2. Maybe change Loess to Splines in NHPP plots
 3. Fix edge_profiles4plotting() for creating edge profiles
 4. Maybe change multidimensional scaling to UMAP in the Phenotype diffusion plot
+5. Simulations to validate the model
